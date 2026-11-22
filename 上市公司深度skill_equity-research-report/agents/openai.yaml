@@ -1,0 +1,4 @@
+interface:
+  display_name: "上市公司深度研报"
+  short_description: "用一手资料完成公司研究、盈利预测与估值，输出四页 WPS 研报"
+  default_prompt: "用 $equity-research-report 选一家适合投研作品集的上市公司，按四页 A4 版式完成可编辑研报，并留下来源与估值复算过程。"
